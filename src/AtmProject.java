@@ -8,6 +8,9 @@ public class AtmProject {
         //version3
         System.out.println("Java da Allah yardimcin olsun");
         //version4
+        System.out.println("MAD branchi kodlar ekledi");
+        //versionMAD1
+
 
     }
 }
