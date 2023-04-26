@@ -11,6 +11,9 @@ public class AtmProject {
         System.out.println("MAD branchi kodlar ekledi");
         //versionMAD1
 
+        System.out.println("Kod a devam ediyoruz");
+        //MAD2
+
 
     }
 }
