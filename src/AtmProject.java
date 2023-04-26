@@ -14,6 +14,9 @@ public class AtmProject {
         System.out.println("Kod a devam ediyoruz");
         //MAD2
 
+        System.out.println();
+        //MAD3
+
 
     }
 }
