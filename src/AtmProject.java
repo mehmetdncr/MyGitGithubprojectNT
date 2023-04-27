@@ -19,6 +19,7 @@ public class AtmProject {
         System.out.println();
         System.out.println();
         //Localde degisiklik yaptim gibi yaptim
+        //remote da uzak depoda degisiklik yaptim
 
 
     }
