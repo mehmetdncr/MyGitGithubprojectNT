@@ -17,7 +17,8 @@ public class AtmProject {
         System.out.println();
         //MAD3
         System.out.println();
-        //
+        System.out.println();
+        //Localde degisiklik yaptim gibi yaptim
 
 
     }
